@@ -1,0 +1,9 @@
+flopy
+pyvista
+PVGeo
+xarray
+imod
+xugrid
+numba
+pyvistaqt
+

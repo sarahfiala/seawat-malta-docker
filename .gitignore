@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.cbc
+*.hds
+*.UCN
+*.ucn
+*.list
+*.tec
+*.ddn
+*.exe
+*.out
+*.zip
+*.tar
+*.gz
+example_results/
+model_files/malta_simulation/Malta_Model/malta_sp0/Malta_Model/

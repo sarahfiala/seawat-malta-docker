@@ -1,0 +1,72 @@
+{
+    "version": "0.1.0",
+    "id": "malta-groundwater",
+    "use_case": "Malta",
+    "title": {
+        "en": "Malta Groundwater Model (SEAWAT)"
+    },
+    "description": {
+        "en": "This process runs a 3D variable-density groundwater flow and transport model (SEAWAT) for the Malta aquifer system. It is configured to simulate the effects of sea-level changes and groundwater recharge on aquifer salinity over a 30-year period. Users can provide custom sea-level projections and recharge rates to test different scenarios."
+    },
+    "jobControlOptions": ["sync-execute", "async-execute"],
+    "keywords": ["SEAWAT", "Malta", "Groundwater", "Salinity", "Variable-Density Flow", "AquaINFRA"],
+    "links": [{
+        "type": "text/html",
+        "rel": "about",
+        "title": "Website of SEAWAT",
+        "href": "https://www.usgs.gov/software/seawat-a-computer-program-simulation-three-dimensional-variable-density-ground-water-flow",
+        "hreflang": "en-US"
+    },
+    {
+        "type": "text/html",
+        "rel": "about",
+        "title": "Groundwater GitHub Repository",
+        "href": "https://github.com/joelazz/aquainfra_MaltaGW",
+        "hreflang": "en-US"
+    }],
+    "inputs": {
+        "user_sealevels": {
+            "title": "Sea Level Projections (m)",
+            "description": "A list of sea level values (m), formatted as a single text string with brackets and commas. This allows testing different scenarios. Higher values (simulating sea-level rise) will increase pressure on the aquifer, pushing saltwater further inland (saltwater intrusion).",
+            "schema": {
+                "type": "string"
+            },
+            "example": "[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",
+            "minOccurs": 0,
+            "maxOccurs": 1,
+            "keywords": ["SEAWAT", "AquaINFRA", "Sea Level Rise", "Saltwater Intrusion"]
+        },
+        "sealevel_int": {
+            "title": "Stress Period Duration (Years)",
+            "description": "The duration, in years, for each individual stress period (i.e., for each value in the 'Sea Level Projections' string). The **Total Simulation Time** is this duration multiplied by the number of sea levels provided. (e.g., 30 sea levels * 1 year duration = 30-year simulation).",
+            "schema": {
+                "type": "integer"
+            },
+            "example": 1,
+            "minOccurs": 0,
+            "maxOccurs": 1,
+            "keywords": ["SEAWAT", "AquaINFRA", "Time"]
+        },
+        "user_recharge": {
+            "title": "Groundwater Recharge Rate (m/day)",
+            "description": "The average rainfall recharge rate, applied uniformly across the model. Units must be in meters per day (m/day). Higher values (e.g., more rainfall) will help push freshwater toward the sea, counteracting saltwater intrusion.",
+            "schema": {
+                "type": "number"
+            },
+            "example": 0.00027,
+            "minOccurs": 0,
+            "maxOccurs": 1,
+            "keywords": ["SEAWAT", "AquaINFRA", "Recharge"]
+        }
+    },
+    "outputs": {
+        "netcdf_output_file" : {
+            "title": "Simulation Output (NetCDF)",
+            "description": "A NetCDF file containing the complete model output. This includes simulated salinity (concentration) and hydraulic head for all model layers, rows, columns, and saved time steps.",
+            "schema": {
+                "type": "object",
+                "contentMediaType": "application/json TODO /x-netcdf?"
+            }
+        }
+    }
+}

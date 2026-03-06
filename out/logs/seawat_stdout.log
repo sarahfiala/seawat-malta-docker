@@ -1,0 +1,3009 @@
+wine: created the configuration directory '/root/.wine'
+wine: configuration in L"/root/.wine" has been updated.
+
+                                  SEAWAT Version 4
+    U.S. GEOLOGICAL SURVEY MODULAR FINITE-DIFFERENCE GROUND-WATER FLOW MODEL
+                             Version 4.00.05 10/19/2012                      
+
+Incorporated MODFLOW Version: 1.18.01 06/20/2008                      
+Incorporated MT3DMS  Version: 5.20    10/30/2006                      
+
+
+ This program is public domain and is released on the
+ condition that neither the U.S. Geological Survey nor
+ the United States Government may be held liable for any
+ damages resulting from their authorized or unauthorized
+ use.
+
+
+ Using NAME file: Malta_Model.nam_swt                                                                                                                                                                                     
+ Run start date and time (yyyy/mm/dd hh:mm:ss): 2026/03/06 11:36:09
+
+
+ STRESS PERIOD NO.    1
+
+  STRESS PERIOD    1 TIME STEP    1 FROM TIME =   0.0000     TO    30.438    
+
+ Transport Step:    1   Step Size:  1.0000E-03 Total Elapsed Time:  1.00000E-03
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =   0.000      [K,I,J]    1    1    1
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =   0.000      [K,I,J]    1    1    1
+ Transport Step:    2   Step Size:   30.44     Total Elapsed Time:   30.438    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1822E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6438E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4539E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2146E-04  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3656E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP    2 FROM TIME =   30.438     TO    60.875    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   60.875    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1781E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6249E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4059E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1878E-04  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3208E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP    3 FROM TIME =   60.875     TO    91.312    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   91.312    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1733E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5904E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3658E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1665E-04  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.2882E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP    4 FROM TIME =   91.312     TO    121.75    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   121.75    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1686E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5576E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3304E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1476E-04  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.2586E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP    5 FROM TIME =   121.75     TO    152.19    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   152.19    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1641E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5265E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2992E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1308E-04  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.2316E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP    6 FROM TIME =   152.19     TO    182.62    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   182.62    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1598E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4973E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2716E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1158E-04  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.2070E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP    7 FROM TIME =   182.62     TO    213.06    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   213.06    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1556E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4696E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2471E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1025E-04  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.1847E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP    8 FROM TIME =   213.06     TO    243.50    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   243.50    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1515E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4435E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2255E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9073E-05  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.1646E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP    9 FROM TIME =   243.50     TO    273.94    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   273.94    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1475E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4189E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2062E-01  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8027E-05  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.1463E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP   10 FROM TIME =   273.94     TO    304.38    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   304.38    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1437E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3956E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1935E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7099E-05  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.1299E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP   11 FROM TIME =   304.38     TO    334.81    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   334.81    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1399E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3736E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1822E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6276E-05  [K,I,J]   15   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.1150E-08  [K,I,J]   15   86   53
+
+  STRESS PERIOD    1 TIME STEP   12 FROM TIME =   334.81     TO    365.25    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   365.25    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1363E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3529E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1717E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5768E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.1017E-08  [K,I,J]   15   86   53
+
+ STRESS PERIOD NO.    2
+
+  STRESS PERIOD    2 TIME STEP    1 FROM TIME =   365.25     TO    395.69    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   395.69    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1328E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3333E-06  [K,I,J]   32  107   53
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1619E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5334E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.8965E-09  [K,I,J]   15   86   53
+
+  STRESS PERIOD    2 TIME STEP    2 FROM TIME =   395.69     TO    426.12    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   426.12    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1294E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3166E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1529E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4936E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.7886E-09  [K,I,J]   15   86   53
+
+  STRESS PERIOD    2 TIME STEP    3 FROM TIME =   426.12     TO    456.56    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   456.56    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1261E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3099E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1445E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4571E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.6919E-09  [K,I,J]   15   86   53
+
+  STRESS PERIOD    2 TIME STEP    4 FROM TIME =   456.56     TO    487.00    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   487.00    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1229E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3033E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1367E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4237E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.6052E-09  [K,I,J]   15   86   53
+
+  STRESS PERIOD    2 TIME STEP    5 FROM TIME =   487.00     TO    517.44    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   517.44    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1199E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2967E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1294E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3931E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.5274E-09  [K,I,J]   15   86   53
+
+  STRESS PERIOD    2 TIME STEP    6 FROM TIME =   517.44     TO    547.88    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   547.88    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1169E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2903E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1227E-01  [K,I,J]   15   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3651E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4577E-09  [K,I,J]   15   86   53
+
+  STRESS PERIOD    2 TIME STEP    7 FROM TIME =   547.88     TO    578.31    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   578.31    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1139E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2840E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1174E-01  [K,I,J]   15   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3393E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3952E-09  [K,I,J]   15   86   53
+
+  STRESS PERIOD    2 TIME STEP    8 FROM TIME =   578.31     TO    608.75    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   608.75    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1111E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2778E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1143E-01  [K,I,J]   15   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3157E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3482E-09  [K,I,J]   15   83   55
+
+  STRESS PERIOD    2 TIME STEP    9 FROM TIME =   608.75     TO    639.19    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   639.19    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1084E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2718E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1112E-01  [K,I,J]   15   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2941E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3248E-09  [K,I,J]   15   83   55
+
+  STRESS PERIOD    2 TIME STEP   10 FROM TIME =   639.19     TO    669.62    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   669.62    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1057E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2658E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1083E-01  [K,I,J]   15   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2742E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3286E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    2 TIME STEP   11 FROM TIME =   669.62     TO    700.06    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   700.06    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1032E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2600E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1055E-01  [K,I,J]   15   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2560E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3395E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    2 TIME STEP   12 FROM TIME =   700.06     TO    730.50    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   730.50    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1007E-01  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2542E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1027E-01  [K,I,J]   15   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2392E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3499E-09  [K,I,J]   16   86   53
+
+ STRESS PERIOD NO.    3
+
+  STRESS PERIOD    3 TIME STEP    1 FROM TIME =   730.50     TO    760.94    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   760.94    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9823E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2486E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1001E-01  [K,I,J]   15   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2238E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3601E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP    2 FROM TIME =   760.94     TO    791.38    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   791.38    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9587E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2431E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9747E-02  [K,I,J]   15   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2097E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3702E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP    3 FROM TIME =   791.38     TO    821.81    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   821.81    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9358E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2378E-06  [K,I,J]   19   90  113
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9569E-02  [K,I,J]   14   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1966E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3803E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP    4 FROM TIME =   821.81     TO    852.25    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   852.25    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9136E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2332E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9427E-02  [K,I,J]   14   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1846E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.3905E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP    5 FROM TIME =   852.25     TO    882.69    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   882.69    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8921E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2301E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9278E-02  [K,I,J]   14   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1735E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4011E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP    6 FROM TIME =   882.69     TO    913.12    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   913.12    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8711E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2284E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.9123E-02  [K,I,J]   14   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1633E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4122E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP    7 FROM TIME =   913.12     TO    943.56    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   943.56    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8508E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2266E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8964E-02  [K,I,J]   14   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1539E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4231E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP    8 FROM TIME =   943.56     TO    974.00    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   974.00    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8311E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2247E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8801E-02  [K,I,J]   14   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1452E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4352E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP    9 FROM TIME =   974.00     TO    1004.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1004.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8119E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2227E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8635E-02  [K,I,J]   14   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1372E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4478E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP   10 FROM TIME =   1004.4     TO    1034.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1034.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7932E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2207E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8467E-02  [K,I,J]   14   85   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1298E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4612E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP   11 FROM TIME =   1034.9     TO    1065.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1065.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7751E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2185E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8315E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1229E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4754E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    3 TIME STEP   12 FROM TIME =   1065.3     TO    1095.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1095.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7575E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2163E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8173E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1166E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.4906E-09  [K,I,J]   16   86   53
+
+ STRESS PERIOD NO.    4
+
+  STRESS PERIOD    4 TIME STEP    1 FROM TIME =   1095.8     TO    1126.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1126.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7404E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2140E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.8030E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1107E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.5067E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    4 TIME STEP    2 FROM TIME =   1126.2     TO    1156.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1156.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7238E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2117E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7885E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1052E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.5239E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    4 TIME STEP    3 FROM TIME =   1156.6     TO    1187.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1187.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7076E-02  [K,I,J]   14   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2093E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7739E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1002E-05  [K,I,J]   16   86   53
+ Outer Iter.  1  Inner Iter.  3:  Max. DC =  0.5422E-09  [K,I,J]   16   86   53
+
+  STRESS PERIOD    4 TIME STEP    4 FROM TIME =   1187.1     TO    1217.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1217.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6923E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2069E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7593E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9550E-06  [K,I,J]   16   86   53
+
+  STRESS PERIOD    4 TIME STEP    5 FROM TIME =   1217.5     TO    1247.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1247.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6780E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2045E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7447E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9115E-06  [K,I,J]   16   86   53
+
+  STRESS PERIOD    4 TIME STEP    6 FROM TIME =   1247.9     TO    1278.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1278.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6639E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2020E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7300E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8711E-06  [K,I,J]   16   86   53
+
+  STRESS PERIOD    4 TIME STEP    7 FROM TIME =   1278.4     TO    1308.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1308.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6503E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1996E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7154E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8334E-06  [K,I,J]   16   86   53
+
+  STRESS PERIOD    4 TIME STEP    8 FROM TIME =   1308.8     TO    1339.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1339.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6369E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1971E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.7009E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7985E-06  [K,I,J]   16   86   53
+
+  STRESS PERIOD    4 TIME STEP    9 FROM TIME =   1339.2     TO    1369.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1369.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6239E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1946E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6865E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7734E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    4 TIME STEP   10 FROM TIME =   1369.7     TO    1400.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1400.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6113E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1920E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6722E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7545E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    4 TIME STEP   11 FROM TIME =   1400.1     TO    1430.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1430.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5989E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1895E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6580E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7367E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    4 TIME STEP   12 FROM TIME =   1430.6     TO    1461.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1461.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5868E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1870E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6440E-02  [K,I,J]   14   83   54
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7200E-06  [K,I,J]   16   83   55
+
+ STRESS PERIOD NO.    5
+
+  STRESS PERIOD    5 TIME STEP    1 FROM TIME =   1461.0     TO    1491.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1491.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5751E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1845E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6314E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7044E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP    2 FROM TIME =   1491.4     TO    1521.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1521.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5636E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1820E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6294E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6897E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP    3 FROM TIME =   1521.9     TO    1552.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1552.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5524E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1795E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6271E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6759E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP    4 FROM TIME =   1552.3     TO    1582.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1582.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5414E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1770E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6246E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6629E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP    5 FROM TIME =   1582.8     TO    1613.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1613.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5308E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1745E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6220E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6506E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP    6 FROM TIME =   1613.2     TO    1643.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1643.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5204E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1721E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6192E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6390E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP    7 FROM TIME =   1643.6     TO    1674.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1674.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5102E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1696E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6161E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6281E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP    8 FROM TIME =   1674.1     TO    1704.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1704.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5003E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1672E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6130E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6177E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP    9 FROM TIME =   1704.5     TO    1734.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1734.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4906E-02  [K,I,J]   14   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1648E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6096E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6079E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP   10 FROM TIME =   1734.9     TO    1765.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1765.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4817E-02  [K,I,J]   15  156   96
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1624E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6061E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5986E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP   11 FROM TIME =   1765.4     TO    1795.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1795.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4766E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1600E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.6025E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5898E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    5 TIME STEP   12 FROM TIME =   1795.8     TO    1826.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1826.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4733E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1577E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5988E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5814E-06  [K,I,J]   16   83   55
+
+ STRESS PERIOD NO.    6
+
+  STRESS PERIOD    6 TIME STEP    1 FROM TIME =   1826.2     TO    1856.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1856.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4699E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1554E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5949E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5733E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    6 TIME STEP    2 FROM TIME =   1856.7     TO    1887.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1887.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4666E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1531E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5910E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5657E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    6 TIME STEP    3 FROM TIME =   1887.1     TO    1917.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1917.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4631E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1508E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5869E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5584E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    6 TIME STEP    4 FROM TIME =   1917.6     TO    1948.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1948.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4597E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1486E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5827E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5514E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    6 TIME STEP    5 FROM TIME =   1948.0     TO    1978.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   1978.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4562E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1464E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5785E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5448E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    6 TIME STEP    6 FROM TIME =   1978.4     TO    2008.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2008.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4527E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1442E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5742E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5384E-06  [K,I,J]   16   83   55
+
+  STRESS PERIOD    6 TIME STEP    7 FROM TIME =   2008.9     TO    2039.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2039.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4492E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1420E-06  [K,I,J]   19  200   83
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5698E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5439E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    6 TIME STEP    8 FROM TIME =   2039.3     TO    2069.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2069.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4456E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1402E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5653E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5512E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    6 TIME STEP    9 FROM TIME =   2069.8     TO    2100.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2100.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4421E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1386E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5608E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5579E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    6 TIME STEP   10 FROM TIME =   2100.2     TO    2130.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2130.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4385E-02  [K,I,J]   15   68  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1370E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5562E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5643E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    6 TIME STEP   11 FROM TIME =   2130.6     TO    2161.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2161.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4352E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1354E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5516E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5701E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    6 TIME STEP   12 FROM TIME =   2161.1     TO    2191.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2191.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4321E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1339E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5469E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5756E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.    7
+
+  STRESS PERIOD    7 TIME STEP    1 FROM TIME =   2191.5     TO    2221.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2221.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4289E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1324E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5422E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5807E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP    2 FROM TIME =   2221.9     TO    2252.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2252.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4257E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1309E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5374E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5854E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP    3 FROM TIME =   2252.4     TO    2282.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2282.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4225E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1294E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5326E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5897E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP    4 FROM TIME =   2282.8     TO    2313.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2313.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4193E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1280E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5278E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5937E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP    5 FROM TIME =   2313.2     TO    2343.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2343.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4160E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1266E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5230E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5974E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP    6 FROM TIME =   2343.7     TO    2374.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2374.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4128E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1252E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5181E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6007E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP    7 FROM TIME =   2374.1     TO    2404.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2404.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4095E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1238E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5132E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6037E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP    8 FROM TIME =   2404.6     TO    2435.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2435.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4063E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1224E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5084E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6065E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP    9 FROM TIME =   2435.0     TO    2465.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2465.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4030E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1211E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.5035E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6090E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP   10 FROM TIME =   2465.4     TO    2495.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2495.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3998E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1198E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4986E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6112E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP   11 FROM TIME =   2495.9     TO    2526.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2526.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3965E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1185E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4937E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6131E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    7 TIME STEP   12 FROM TIME =   2526.3     TO    2556.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2556.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3933E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1172E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4888E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6148E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.    8
+
+  STRESS PERIOD    8 TIME STEP    1 FROM TIME =   2556.8     TO    2587.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2587.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3900E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1159E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4839E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6163E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP    2 FROM TIME =   2587.2     TO    2617.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2617.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3868E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1147E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4790E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6176E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP    3 FROM TIME =   2617.6     TO    2648.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2648.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3835E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1135E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4741E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6186E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP    4 FROM TIME =   2648.1     TO    2678.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2678.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3803E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1123E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4692E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6194E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP    5 FROM TIME =   2678.5     TO    2708.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2708.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3771E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1111E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4643E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6201E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP    6 FROM TIME =   2708.9     TO    2739.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2739.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3738E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1099E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4595E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6205E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP    7 FROM TIME =   2739.4     TO    2769.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2769.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3706E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1087E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4547E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6208E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP    8 FROM TIME =   2769.8     TO    2800.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2800.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3674E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1076E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4498E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6209E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP    9 FROM TIME =   2800.2     TO    2830.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2830.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3643E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1065E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4450E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6209E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP   10 FROM TIME =   2830.7     TO    2861.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2861.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3611E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1053E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4402E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6206E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP   11 FROM TIME =   2861.1     TO    2891.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2891.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3579E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1043E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4355E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6203E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    8 TIME STEP   12 FROM TIME =   2891.6     TO    2922.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2922.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3548E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1032E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4308E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6198E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.    9
+
+  STRESS PERIOD    9 TIME STEP    1 FROM TIME =   2922.0     TO    2952.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2952.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3517E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1021E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4260E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6191E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP    2 FROM TIME =   2952.4     TO    2982.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   2982.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3486E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1011E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4214E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6184E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP    3 FROM TIME =   2982.9     TO    3013.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3013.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3455E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1000E-06  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4167E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6175E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP    4 FROM TIME =   3013.3     TO    3043.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3043.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3424E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9899E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4121E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6164E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP    5 FROM TIME =   3043.8     TO    3074.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3074.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3394E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9798E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4075E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6153E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP    6 FROM TIME =   3074.2     TO    3104.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3104.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3364E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9698E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.4029E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6141E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP    7 FROM TIME =   3104.6     TO    3135.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3135.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3334E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9600E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3983E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6127E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP    8 FROM TIME =   3135.1     TO    3165.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3165.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3304E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9503E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3938E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6113E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP    9 FROM TIME =   3165.5     TO    3195.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3195.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3274E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9407E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3894E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6097E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP   10 FROM TIME =   3195.9     TO    3226.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3226.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3245E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9313E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3849E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6081E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP   11 FROM TIME =   3226.4     TO    3256.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3256.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3215E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9220E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3805E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6064E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD    9 TIME STEP   12 FROM TIME =   3256.8     TO    3287.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3287.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3186E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9128E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3761E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6046E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   10
+
+  STRESS PERIOD   10 TIME STEP    1 FROM TIME =   3287.2     TO    3317.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3317.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3157E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.9037E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3718E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6028E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP    2 FROM TIME =   3317.7     TO    3348.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3348.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3129E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8947E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3675E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6008E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP    3 FROM TIME =   3348.1     TO    3378.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3378.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3100E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8859E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3632E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5988E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP    4 FROM TIME =   3378.6     TO    3409.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3409.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3072E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8772E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3589E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5968E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP    5 FROM TIME =   3409.0     TO    3439.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3439.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3044E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8685E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3547E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5946E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP    6 FROM TIME =   3439.4     TO    3469.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3469.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3017E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8600E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3506E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5925E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP    7 FROM TIME =   3469.9     TO    3500.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3500.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2989E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8516E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3464E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5902E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP    8 FROM TIME =   3500.3     TO    3530.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3530.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2962E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8433E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3423E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5879E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP    9 FROM TIME =   3530.8     TO    3561.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3561.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2935E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8352E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3383E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5856E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP   10 FROM TIME =   3561.2     TO    3591.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3591.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2908E-02  [K,I,J]   15   67  127
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8271E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3343E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5832E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP   11 FROM TIME =   3591.6     TO    3622.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3622.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2888E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8191E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3303E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5808E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   10 TIME STEP   12 FROM TIME =   3622.1     TO    3652.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3652.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2885E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8112E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3263E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5783E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   11
+
+  STRESS PERIOD   11 TIME STEP    1 FROM TIME =   3652.5     TO    3682.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3682.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2881E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.8034E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3224E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5758E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP    2 FROM TIME =   3682.9     TO    3713.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3713.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2877E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7958E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3186E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5732E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP    3 FROM TIME =   3713.4     TO    3743.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3743.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2873E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7882E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3147E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5707E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP    4 FROM TIME =   3743.8     TO    3774.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3774.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2869E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7807E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3109E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5681E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP    5 FROM TIME =   3774.2     TO    3804.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3804.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2864E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7733E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3072E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5654E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP    6 FROM TIME =   3804.7     TO    3835.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3835.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2859E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7660E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.3035E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5628E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP    7 FROM TIME =   3835.1     TO    3865.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3865.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2854E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7588E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2998E-02  [K,I,J]   14   83   53
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5601E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP    8 FROM TIME =   3865.6     TO    3896.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3896.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2848E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7516E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2973E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5574E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP    9 FROM TIME =   3896.0     TO    3926.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3926.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2842E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7446E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2952E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5546E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP   10 FROM TIME =   3926.4     TO    3956.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3956.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2836E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7377E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2930E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5519E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP   11 FROM TIME =   3956.9     TO    3987.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   3987.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2830E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7308E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2909E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5491E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   11 TIME STEP   12 FROM TIME =   3987.3     TO    4017.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4017.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2824E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7240E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2888E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5463E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   12
+
+  STRESS PERIOD   12 TIME STEP    1 FROM TIME =   4017.8     TO    4048.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4048.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2817E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7173E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2867E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5435E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP    2 FROM TIME =   4048.2     TO    4078.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4078.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2810E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7107E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2846E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5407E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP    3 FROM TIME =   4078.6     TO    4109.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4109.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2802E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.7041E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2825E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5379E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP    4 FROM TIME =   4109.1     TO    4139.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4139.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2795E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6977E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2804E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5351E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP    5 FROM TIME =   4139.5     TO    4169.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4169.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2787E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6913E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2784E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5322E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP    6 FROM TIME =   4169.9     TO    4200.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4200.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2779E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6850E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2763E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5294E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP    7 FROM TIME =   4200.4     TO    4230.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4230.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2771E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6787E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2743E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5265E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP    8 FROM TIME =   4230.8     TO    4261.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4261.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2763E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6726E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2722E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5237E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP    9 FROM TIME =   4261.2     TO    4291.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4291.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2755E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6665E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2702E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5208E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP   10 FROM TIME =   4291.7     TO    4322.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4322.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2746E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6605E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2682E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5179E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP   11 FROM TIME =   4322.1     TO    4352.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4352.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2737E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6545E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2662E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5151E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   12 TIME STEP   12 FROM TIME =   4352.6     TO    4383.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4383.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2728E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6487E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2642E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5122E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   13
+
+  STRESS PERIOD   13 TIME STEP    1 FROM TIME =   4383.0     TO    4413.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4413.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2719E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6429E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2622E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5093E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP    2 FROM TIME =   4413.4     TO    4443.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4443.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2710E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6371E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2603E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5065E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP    3 FROM TIME =   4443.9     TO    4474.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4474.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2701E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6315E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2583E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5036E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP    4 FROM TIME =   4474.3     TO    4504.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4504.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2691E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6259E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2564E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5007E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP    5 FROM TIME =   4504.8     TO    4535.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4535.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2681E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6203E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2545E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4979E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP    6 FROM TIME =   4535.2     TO    4565.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4565.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2672E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6148E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2526E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4950E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP    7 FROM TIME =   4565.6     TO    4596.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4596.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2662E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6094E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2507E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4922E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP    8 FROM TIME =   4596.1     TO    4626.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4626.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2652E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.6041E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2488E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4893E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP    9 FROM TIME =   4626.5     TO    4656.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4656.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2641E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5988E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2470E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4865E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP   10 FROM TIME =   4656.9     TO    4687.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4687.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2631E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5936E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2451E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4837E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP   11 FROM TIME =   4687.4     TO    4717.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4717.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2621E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5884E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2433E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4808E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   13 TIME STEP   12 FROM TIME =   4717.8     TO    4748.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4748.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2610E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5833E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2414E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4780E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   14
+
+  STRESS PERIOD   14 TIME STEP    1 FROM TIME =   4748.2     TO    4778.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4778.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2600E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5782E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2396E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4752E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP    2 FROM TIME =   4778.7     TO    4809.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4809.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2589E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5733E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2378E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4724E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP    3 FROM TIME =   4809.1     TO    4839.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4839.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2578E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5683E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2361E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4696E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP    4 FROM TIME =   4839.6     TO    4870.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4870.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2567E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5634E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2343E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4668E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP    5 FROM TIME =   4870.0     TO    4900.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4900.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2557E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5586E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2325E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4641E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP    6 FROM TIME =   4900.4     TO    4930.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4930.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2546E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5538E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2308E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4613E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP    7 FROM TIME =   4930.9     TO    4961.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4961.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2534E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5491E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2290E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4585E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP    8 FROM TIME =   4961.3     TO    4991.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   4991.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2523E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5445E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2273E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4558E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP    9 FROM TIME =   4991.8     TO    5022.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5022.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2512E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5399E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2256E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4531E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP   10 FROM TIME =   5022.2     TO    5052.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5052.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2501E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5353E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2239E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4504E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP   11 FROM TIME =   5052.6     TO    5083.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5083.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2489E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5308E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2222E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4477E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   14 TIME STEP   12 FROM TIME =   5083.1     TO    5113.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5113.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2478E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5263E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2206E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4450E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   15
+
+  STRESS PERIOD   15 TIME STEP    1 FROM TIME =   5113.5     TO    5143.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5143.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2467E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5219E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2189E-02  [K,I,J]   17   81   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4423E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP    2 FROM TIME =   5143.9     TO    5174.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5174.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2455E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5176E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2180E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4396E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP    3 FROM TIME =   5174.4     TO    5204.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5204.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2444E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5133E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2170E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4370E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP    4 FROM TIME =   5204.8     TO    5235.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5235.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2432E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5090E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2161E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4344E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP    5 FROM TIME =   5235.2     TO    5265.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5265.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2420E-02  [K,I,J]   17  146  104
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5048E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2152E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4317E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP    6 FROM TIME =   5265.7     TO    5296.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5296.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2409E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.5006E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2142E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4291E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP    7 FROM TIME =   5296.1     TO    5326.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5326.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2402E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4965E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2133E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4265E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP    8 FROM TIME =   5326.6     TO    5357.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5357.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2395E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4924E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2124E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4240E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP    9 FROM TIME =   5357.0     TO    5387.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5387.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2388E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4884E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2115E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4214E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP   10 FROM TIME =   5387.4     TO    5417.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5417.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2380E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4844E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2105E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4189E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP   11 FROM TIME =   5417.9     TO    5448.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5448.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2373E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4805E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2096E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4163E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   15 TIME STEP   12 FROM TIME =   5448.3     TO    5478.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5478.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2365E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4766E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2087E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4138E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   16
+
+  STRESS PERIOD   16 TIME STEP    1 FROM TIME =   5478.8     TO    5509.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5509.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2358E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4727E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2078E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4113E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP    2 FROM TIME =   5509.2     TO    5539.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5539.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2350E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4689E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2068E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4088E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP    3 FROM TIME =   5539.6     TO    5570.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5570.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2342E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4651E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2059E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4064E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP    4 FROM TIME =   5570.1     TO    5600.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5600.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2334E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4614E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2050E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4039E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP    5 FROM TIME =   5600.5     TO    5630.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5630.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2326E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4577E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2041E-02  [K,I,J]   17   82   46
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4015E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP    6 FROM TIME =   5630.9     TO    5661.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5661.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2318E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4541E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2032E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3990E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP    7 FROM TIME =   5661.4     TO    5691.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5691.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2310E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4504E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2024E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3966E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP    8 FROM TIME =   5691.8     TO    5722.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5722.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2302E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4469E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2017E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3942E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP    9 FROM TIME =   5722.2     TO    5752.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5752.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2294E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4433E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2009E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3919E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP   10 FROM TIME =   5752.7     TO    5783.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5783.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2286E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4398E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2001E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3895E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP   11 FROM TIME =   5783.1     TO    5813.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5813.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2278E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4364E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1993E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3872E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   16 TIME STEP   12 FROM TIME =   5813.6     TO    5844.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5844.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2269E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4330E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1985E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3848E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   17
+
+  STRESS PERIOD   17 TIME STEP    1 FROM TIME =   5844.0     TO    5874.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5874.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2261E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4296E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1977E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3825E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP    2 FROM TIME =   5874.4     TO    5904.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5904.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2253E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4262E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1969E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3802E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP    3 FROM TIME =   5904.9     TO    5935.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5935.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2244E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4229E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1962E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3780E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP    4 FROM TIME =   5935.3     TO    5965.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5965.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2236E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4197E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1954E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3757E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP    5 FROM TIME =   5965.8     TO    5996.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   5996.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2227E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4164E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1946E-02  [K,I,J]   17   81   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3734E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP    6 FROM TIME =   5996.2     TO    6026.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6026.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2219E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4132E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1941E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3712E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP    7 FROM TIME =   6026.6     TO    6057.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6057.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2210E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4100E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1939E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3690E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP    8 FROM TIME =   6057.1     TO    6087.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6087.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2202E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4069E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1936E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3668E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP    9 FROM TIME =   6087.5     TO    6117.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6117.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2193E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4038E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1933E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3646E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP   10 FROM TIME =   6117.9     TO    6148.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6148.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2184E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.4007E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1929E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3625E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP   11 FROM TIME =   6148.4     TO    6178.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6178.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2176E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3976E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1926E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3603E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   17 TIME STEP   12 FROM TIME =   6178.8     TO    6209.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6209.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2167E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3946E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1923E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3582E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   18
+
+  STRESS PERIOD   18 TIME STEP    1 FROM TIME =   6209.2     TO    6239.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6239.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2158E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3916E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1920E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3560E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP    2 FROM TIME =   6239.7     TO    6270.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6270.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2150E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3887E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1916E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3539E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP    3 FROM TIME =   6270.1     TO    6300.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6300.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2141E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3858E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1913E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3519E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP    4 FROM TIME =   6300.6     TO    6331.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6331.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2132E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3829E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1909E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3498E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP    5 FROM TIME =   6331.0     TO    6361.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6361.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2123E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3800E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1906E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3477E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP    6 FROM TIME =   6361.4     TO    6391.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6391.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2114E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3772E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1902E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3457E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP    7 FROM TIME =   6391.9     TO    6422.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6422.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2105E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3744E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1898E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3437E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP    8 FROM TIME =   6422.3     TO    6452.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6452.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2097E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3716E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1894E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3417E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP    9 FROM TIME =   6452.8     TO    6483.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6483.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2088E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3688E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1890E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3397E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP   10 FROM TIME =   6483.2     TO    6513.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6513.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2079E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3661E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1886E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3377E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP   11 FROM TIME =   6513.6     TO    6544.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6544.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2070E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3634E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1882E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3357E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   18 TIME STEP   12 FROM TIME =   6544.1     TO    6574.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6574.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2061E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3607E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1878E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3338E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   19
+
+  STRESS PERIOD   19 TIME STEP    1 FROM TIME =   6574.5     TO    6604.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6604.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2052E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3581E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1874E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3318E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP    2 FROM TIME =   6604.9     TO    6635.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6635.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2043E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3555E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1870E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3299E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP    3 FROM TIME =   6635.4     TO    6665.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6665.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2034E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3529E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1865E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3280E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP    4 FROM TIME =   6665.8     TO    6696.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6696.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2025E-02  [K,I,J]   17  148  103
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3503E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1861E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3261E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP    5 FROM TIME =   6696.2     TO    6726.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6726.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2017E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3478E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1857E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3243E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP    6 FROM TIME =   6726.7     TO    6757.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6757.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2009E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3453E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1852E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3224E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP    7 FROM TIME =   6757.1     TO    6787.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6787.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.2001E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3428E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1848E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3206E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP    8 FROM TIME =   6787.6     TO    6818.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6818.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1993E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3403E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1844E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3187E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP    9 FROM TIME =   6818.0     TO    6848.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6848.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1985E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3379E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1839E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3169E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP   10 FROM TIME =   6848.4     TO    6878.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6878.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1978E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3355E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1835E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3151E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP   11 FROM TIME =   6878.9     TO    6909.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6909.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1970E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3331E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1831E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3133E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   19 TIME STEP   12 FROM TIME =   6909.3     TO    6939.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6939.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1962E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3307E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1826E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3116E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   20
+
+  STRESS PERIOD   20 TIME STEP    1 FROM TIME =   6939.8     TO    6970.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   6970.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1954E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3283E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1822E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3098E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP    2 FROM TIME =   6970.2     TO    7000.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7000.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1946E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3260E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1817E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3081E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP    3 FROM TIME =   7000.6     TO    7031.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7031.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1938E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3237E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1812E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3063E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP    4 FROM TIME =   7031.1     TO    7061.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7061.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1930E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3214E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1808E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3046E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP    5 FROM TIME =   7061.5     TO    7091.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7091.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1922E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3192E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1803E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3029E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP    6 FROM TIME =   7091.9     TO    7122.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7122.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1915E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3169E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1798E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3012E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP    7 FROM TIME =   7122.4     TO    7152.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7152.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1907E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3147E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1793E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2996E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP    8 FROM TIME =   7152.8     TO    7183.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7183.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1899E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3125E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1788E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2979E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP    9 FROM TIME =   7183.2     TO    7213.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7213.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1891E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3103E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1783E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2962E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP   10 FROM TIME =   7213.7     TO    7244.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7244.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1883E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3082E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1778E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2946E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP   11 FROM TIME =   7244.1     TO    7274.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7274.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1875E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3060E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1773E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2930E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   20 TIME STEP   12 FROM TIME =   7274.6     TO    7305.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7305.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1867E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3039E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1768E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2914E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   21
+
+  STRESS PERIOD   21 TIME STEP    1 FROM TIME =   7305.0     TO    7335.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7335.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1859E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.3018E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1763E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2898E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP    2 FROM TIME =   7335.4     TO    7365.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7365.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1851E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2997E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1758E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2882E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP    3 FROM TIME =   7365.9     TO    7396.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7396.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1844E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2977E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1752E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2866E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP    4 FROM TIME =   7396.3     TO    7426.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7426.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1836E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2956E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1747E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2851E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP    5 FROM TIME =   7426.8     TO    7457.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7457.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1828E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2936E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1742E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2835E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP    6 FROM TIME =   7457.2     TO    7487.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7487.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1820E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2916E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1736E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2820E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP    7 FROM TIME =   7487.6     TO    7518.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7518.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1812E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2896E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1731E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2805E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP    8 FROM TIME =   7518.1     TO    7548.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7548.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1804E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2877E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1725E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2790E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP    9 FROM TIME =   7548.5     TO    7578.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7578.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1796E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2857E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1720E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2775E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP   10 FROM TIME =   7578.9     TO    7609.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7609.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1789E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2838E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1714E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2760E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP   11 FROM TIME =   7609.4     TO    7639.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7639.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1781E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2819E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1708E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2745E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   21 TIME STEP   12 FROM TIME =   7639.8     TO    7670.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7670.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1773E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2800E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1703E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2731E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   22
+
+  STRESS PERIOD   22 TIME STEP    1 FROM TIME =   7670.2     TO    7700.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7700.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1765E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2781E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1697E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2716E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP    2 FROM TIME =   7700.7     TO    7731.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7731.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1757E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2762E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1691E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2702E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP    3 FROM TIME =   7731.1     TO    7761.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7761.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1750E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2744E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1685E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2688E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP    4 FROM TIME =   7761.6     TO    7792.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7792.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1742E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2726E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1680E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2674E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP    5 FROM TIME =   7792.0     TO    7822.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7822.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1734E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2707E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1674E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2660E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP    6 FROM TIME =   7822.4     TO    7852.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7852.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1727E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2689E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1668E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2646E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP    7 FROM TIME =   7852.9     TO    7883.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7883.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1719E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2672E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1662E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2632E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP    8 FROM TIME =   7883.3     TO    7913.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7913.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1711E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2654E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1656E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2618E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP    9 FROM TIME =   7913.8     TO    7944.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7944.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1703E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2637E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1650E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2605E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP   10 FROM TIME =   7944.2     TO    7974.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   7974.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1696E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2619E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1644E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2591E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP   11 FROM TIME =   7974.6     TO    8005.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8005.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1688E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2602E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1638E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2578E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   22 TIME STEP   12 FROM TIME =   8005.1     TO    8035.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8035.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1681E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2585E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1632E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2565E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   23
+
+  STRESS PERIOD   23 TIME STEP    1 FROM TIME =   8035.5     TO    8065.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8065.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1673E-02  [K,I,J]   17  149  101
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2568E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1626E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2552E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP    2 FROM TIME =   8065.9     TO    8096.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8096.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1667E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2551E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1620E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2539E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP    3 FROM TIME =   8096.4     TO    8126.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8126.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1664E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2535E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1613E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2526E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP    4 FROM TIME =   8126.8     TO    8157.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8157.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1661E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2518E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1607E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2513E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP    5 FROM TIME =   8157.2     TO    8187.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8187.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1657E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2502E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1601E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2500E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP    6 FROM TIME =   8187.7     TO    8218.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8218.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1654E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2486E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1595E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2488E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP    7 FROM TIME =   8218.1     TO    8248.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8248.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1651E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2470E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1589E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2475E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP    8 FROM TIME =   8248.6     TO    8279.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8279.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1647E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2454E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1582E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2463E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP    9 FROM TIME =   8279.0     TO    8309.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8309.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1644E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2438E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1576E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2451E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP   10 FROM TIME =   8309.4     TO    8339.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8339.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1640E-02  [K,I,J]   17  233   57
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2423E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1570E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2438E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP   11 FROM TIME =   8339.9     TO    8370.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8370.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1639E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2407E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1563E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2426E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   23 TIME STEP   12 FROM TIME =   8370.3     TO    8400.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8400.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1639E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2392E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1557E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2414E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   24
+
+  STRESS PERIOD   24 TIME STEP    1 FROM TIME =   8400.8     TO    8431.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8431.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1640E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2376E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1551E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2402E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP    2 FROM TIME =   8431.2     TO    8461.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8461.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1640E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2361E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1544E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2391E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP    3 FROM TIME =   8461.6     TO    8492.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8492.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1640E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2346E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1538E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2379E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP    4 FROM TIME =   8492.1     TO    8522.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8522.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1639E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2332E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1531E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2367E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP    5 FROM TIME =   8522.5     TO    8552.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8552.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1639E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2317E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1525E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2356E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP    6 FROM TIME =   8552.9     TO    8583.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8583.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1639E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2302E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1518E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2344E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP    7 FROM TIME =   8583.4     TO    8613.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8613.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1638E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2288E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1512E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2333E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP    8 FROM TIME =   8613.8     TO    8644.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8644.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1638E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2273E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1506E-02  [K,I,J]   17   82   47
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2322E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP    9 FROM TIME =   8644.2     TO    8674.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8674.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1637E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2259E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1499E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2311E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP   10 FROM TIME =   8674.7     TO    8705.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8705.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1636E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2245E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1495E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2299E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP   11 FROM TIME =   8705.1     TO    8735.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8735.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1635E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2231E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1490E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2288E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   24 TIME STEP   12 FROM TIME =   8735.6     TO    8766.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8766.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1634E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2217E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1486E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2278E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   25
+
+  STRESS PERIOD   25 TIME STEP    1 FROM TIME =   8766.0     TO    8796.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8796.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1633E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2204E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1482E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2267E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP    2 FROM TIME =   8796.4     TO    8826.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8826.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1632E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2190E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1478E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2256E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP    3 FROM TIME =   8826.9     TO    8857.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8857.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1630E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2176E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1473E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2245E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP    4 FROM TIME =   8857.3     TO    8887.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8887.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1629E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2163E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1469E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2235E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP    5 FROM TIME =   8887.8     TO    8918.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8918.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1628E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2150E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1465E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2224E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP    6 FROM TIME =   8918.2     TO    8948.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8948.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1626E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2136E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1460E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2214E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP    7 FROM TIME =   8948.6     TO    8979.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   8979.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1624E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2123E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1456E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2204E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP    8 FROM TIME =   8979.1     TO    9009.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9009.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1623E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2110E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1452E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2193E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP    9 FROM TIME =   9009.5     TO    9039.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9039.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1621E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2097E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1448E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2183E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP   10 FROM TIME =   9039.9     TO    9070.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9070.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1619E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2085E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1443E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2173E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP   11 FROM TIME =   9070.4     TO    9100.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9100.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1617E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2072E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1439E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2163E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   25 TIME STEP   12 FROM TIME =   9100.8     TO    9131.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9131.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1615E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2059E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1435E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2153E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   26
+
+  STRESS PERIOD   26 TIME STEP    1 FROM TIME =   9131.2     TO    9161.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9161.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1613E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2047E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1431E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2143E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP    2 FROM TIME =   9161.7     TO    9192.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9192.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1610E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2035E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1426E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2134E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP    3 FROM TIME =   9192.1     TO    9222.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9222.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1608E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2022E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1422E-02  [K,I,J]   23   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2124E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP    4 FROM TIME =   9222.6     TO    9253.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9253.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1606E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2010E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1419E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2114E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP    5 FROM TIME =   9253.0     TO    9283.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9283.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1603E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1998E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1416E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2105E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP    6 FROM TIME =   9283.4     TO    9313.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9313.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1601E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1986E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1413E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2095E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP    7 FROM TIME =   9313.9     TO    9344.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9344.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1598E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1974E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1410E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2086E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP    8 FROM TIME =   9344.3     TO    9374.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9374.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1596E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1962E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1407E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2076E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP    9 FROM TIME =   9374.8     TO    9405.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9405.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1593E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1951E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1405E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2067E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP   10 FROM TIME =   9405.2     TO    9435.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9435.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1590E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1939E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1402E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2058E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP   11 FROM TIME =   9435.6     TO    9466.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9466.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1588E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1927E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1399E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2049E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   26 TIME STEP   12 FROM TIME =   9466.1     TO    9496.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9496.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1585E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1916E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1396E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2040E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   27
+
+  STRESS PERIOD   27 TIME STEP    1 FROM TIME =   9496.5     TO    9526.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9526.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1582E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1905E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1393E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2031E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP    2 FROM TIME =   9526.9     TO    9557.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9557.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1579E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1893E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1390E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2022E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP    3 FROM TIME =   9557.4     TO    9587.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9587.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1576E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1882E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1387E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2013E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP    4 FROM TIME =   9587.8     TO    9618.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9618.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1573E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1871E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1385E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.2004E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP    5 FROM TIME =   9618.2     TO    9648.7    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9648.7    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1570E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1860E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1382E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1995E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP    6 FROM TIME =   9648.7     TO    9679.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9679.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1566E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1849E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1379E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1987E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP    7 FROM TIME =   9679.1     TO    9709.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9709.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1563E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1839E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1376E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1978E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP    8 FROM TIME =   9709.6     TO    9740.0    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9740.0    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1560E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1828E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1373E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1970E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP    9 FROM TIME =   9740.0     TO    9770.4    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9770.4    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1557E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1817E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1370E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1961E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP   10 FROM TIME =   9770.4     TO    9800.9    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9800.9    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1553E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1807E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1367E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1953E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP   11 FROM TIME =   9800.9     TO    9831.3    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9831.3    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1550E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1796E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1364E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1944E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   27 TIME STEP   12 FROM TIME =   9831.3     TO    9861.8    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9861.8    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1546E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1786E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1362E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1936E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   28
+
+  STRESS PERIOD   28 TIME STEP    1 FROM TIME =   9861.8     TO    9892.2    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9892.2    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1543E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1775E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1359E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1928E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP    2 FROM TIME =   9892.2     TO    9922.6    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9922.6    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1539E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1765E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1356E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1920E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP    3 FROM TIME =   9922.6     TO    9953.1    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9953.1    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1536E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1755E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1353E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1911E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP    4 FROM TIME =   9953.1     TO    9983.5    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   9983.5    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1532E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1745E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1350E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1903E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP    5 FROM TIME =   9983.5     TO    10014.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10014.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1528E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1735E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1347E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1895E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP    6 FROM TIME =   10014.     TO    10044.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10044.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1525E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1725E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1344E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1887E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP    7 FROM TIME =   10044.     TO    10075.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10075.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1521E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1715E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1341E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1879E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP    8 FROM TIME =   10075.     TO    10105.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10105.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1517E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1705E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1338E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1872E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP    9 FROM TIME =   10105.     TO    10136.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10136.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1513E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1695E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1335E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1864E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP   10 FROM TIME =   10136.     TO    10166.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10166.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1510E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1686E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1332E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1856E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP   11 FROM TIME =   10166.     TO    10197.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10197.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1506E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1676E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1329E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1848E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   28 TIME STEP   12 FROM TIME =   10197.     TO    10227.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10227.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1502E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1667E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1327E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1841E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   29
+
+  STRESS PERIOD   29 TIME STEP    1 FROM TIME =   10227.     TO    10257.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10257.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1498E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1657E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1324E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1833E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP    2 FROM TIME =   10257.     TO    10288.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10288.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1494E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1648E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1321E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1826E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP    3 FROM TIME =   10288.     TO    10318.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10318.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1490E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1639E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1318E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1818E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP    4 FROM TIME =   10318.     TO    10349.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10349.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1486E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1629E-07  [K,I,J]   18  141  107
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1315E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1811E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP    5 FROM TIME =   10349.     TO    10379.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10379.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1482E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1623E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1312E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1803E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP    6 FROM TIME =   10379.     TO    10410.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10410.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1478E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1619E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1309E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1796E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP    7 FROM TIME =   10410.     TO    10440.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10440.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1474E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1615E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1306E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1789E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP    8 FROM TIME =   10440.     TO    10470.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10470.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1470E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1610E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1303E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1782E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP    9 FROM TIME =   10470.     TO    10501.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10501.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1466E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1606E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1300E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1775E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP   10 FROM TIME =   10501.     TO    10531.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10531.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1462E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1601E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1297E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1767E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP   11 FROM TIME =   10531.     TO    10562.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10562.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1458E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1597E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1294E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1760E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   29 TIME STEP   12 FROM TIME =   10562.     TO    10592.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10592.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1453E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1593E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1291E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1753E-06  [K,I,J]   15   83   55
+
+ STRESS PERIOD NO.   30
+
+  STRESS PERIOD   30 TIME STEP    1 FROM TIME =   10592.     TO    10623.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10623.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1449E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1589E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1288E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1746E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP    2 FROM TIME =   10623.     TO    10653.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10653.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1445E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1584E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1285E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1739E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP    3 FROM TIME =   10653.     TO    10684.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10684.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1441E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1580E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1282E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1733E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP    4 FROM TIME =   10684.     TO    10714.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10714.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1436E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1576E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1280E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1726E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP    5 FROM TIME =   10714.     TO    10744.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10744.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1432E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1572E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1277E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1719E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP    6 FROM TIME =   10744.     TO    10775.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10775.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1428E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1567E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1274E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1712E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP    7 FROM TIME =   10775.     TO    10805.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10805.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1424E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1563E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1271E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1705E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP    8 FROM TIME =   10805.     TO    10836.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10836.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1419E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1559E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1268E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1699E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP    9 FROM TIME =   10836.     TO    10866.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10866.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1415E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1555E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1265E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1692E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP   10 FROM TIME =   10866.     TO    10897.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10897.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1411E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1551E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1262E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1686E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP   11 FROM TIME =   10897.     TO    10927.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10927.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1406E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1546E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1259E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1679E-06  [K,I,J]   15   83   55
+
+  STRESS PERIOD   30 TIME STEP   12 FROM TIME =   10927.     TO    10958.    
+
+ Transport Step:    1   Step Size:   30.44     Total Elapsed Time:   10958.    
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1402E-02  [K,I,J]   17  156   97
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1542E-07  [K,I,J]   32   85   57
+ Outer Iter.  1  Inner Iter.  1:  Max. DC =  0.1256E-02  [K,I,J]   22   90   55
+ Outer Iter.  1  Inner Iter.  2:  Max. DC =  0.1673E-06  [K,I,J]   15   83   55
+ Run end date and time (yyyy/mm/dd hh:mm:ss): 2026/03/06 12:35:04
+ Elapsed run time: 58 Minutes, 55.158 Seconds
+
+ Normal termination of SEAWAT
+X connection to :99 broken (explicit kill or server shutdown).
+X connection to :99 broken (explicit kill or server shutdown).
