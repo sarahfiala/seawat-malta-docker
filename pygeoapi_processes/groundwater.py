@@ -55,7 +55,7 @@ class MaltaGroundwaterProcessor(BaseProcessor):
         self.supports_outputs = True # TODO: Is this not outdated/deprecated by now? Check!
         self.job_id = None
         self.process_id = self.metadata["id"]
-        self.image_name = 'maltagw:20251201'
+        self.image_name = 'malta_seawat:20260309'
 
         # Set config:
         config_file_path = os.environ.get('AQUAINFRA_CONFIG_FILE', "./config.json")
@@ -164,9 +164,9 @@ class MaltaGroundwaterProcessor(BaseProcessor):
         ### Prepare response JSON ###
         #############################
 
-        # The output is currently one NetCDF file with the name of: salt_flow.nc
-        output_netcdf_file = output_dir+'/salt_flow.nc'
-        output_netcdf_url  = output_url+'/salt_flow.nc'
+        # The output is currently one NetCDF file with the name of: salt_chlor.nc
+        output_netcdf_file = output_dir+'/salt_chlor.nc'
+        output_netcdf_url  = output_url+'/salt_chlor.nc'
 
 
         # Prepare JSON object that will be returned to user:

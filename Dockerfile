@@ -67,3 +67,11 @@ COPY entrypoint.sh /usr/local/bin/entrypoint.sh
 RUN chmod +x /usr/local/bin/entrypoint.sh
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
 
+
+# Docker build example:
+# today=$(date '+%Y%m%d')
+# docker build -t malta_seawat:${today} .
+
+# Docker run example:
+# date; docker run malta_seawat:${today}; date
+
