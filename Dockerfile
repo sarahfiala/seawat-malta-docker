@@ -1,5 +1,8 @@
 FROM ubuntu:24.04
 
+# Include git commit hash as label (at the end):
+ARG GIT_COMMIT
+
 # Set environment variables to avoid interactive prompts during installation
 ENV DEBIAN_FRONTEND=noninteractive
 
@@ -67,10 +70,20 @@ COPY entrypoint.sh /usr/local/bin/entrypoint.sh
 RUN chmod +x /usr/local/bin/entrypoint.sh
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
 
+# Include git commit hash as label:
+LABEL org.opencontainers.image.revision=$GIT_COMMIT
 
 # Docker build example:
+# This includes the git commit hash, so please
+# make sure all your changes are committed/stashed:
 # today=$(date '+%Y%m%d')
+# githash=$(git rev-parse --short HEAD)
+# Simple, without git hash:
 # docker build -t malta_seawat:${today} .
+# With git hash:
+# docker build \
+#  --build-arg GIT_COMMIT=${githash} \
+#  -t malta_seawat:${today}-${githash} .
 
 # Docker run example:
 # date; docker run malta_seawat:${today}; date
