@@ -7,8 +7,13 @@ import logging
 LOGGER = logging.getLogger(__name__)
 
 from pygeoapi.process.base import BaseProcessor, ProcessorExecuteError
-from pygeoapi.process.aquainfra_MaltaGW.pygeoapi_processes.utils import log_docker_output
-from pygeoapi.process.aquainfra_MaltaGW.pygeoapi_processes.utils import get_error_message_from_docker_stderr
+
+# seawat repo has hyphen in it, so we cannot import it in the normal python way:
+#from pygeoapi.process.seawat-malta-docker.pygeoapi_processes.utils import log_docker_output
+#from pygeoapi.process.seawat-malta-docker.pygeoapi_processes.utils import get_error_message_from_docker_stderr
+import importlib
+utils = importlib.import_module("pygeoapi.process.seawat-malta-docker.pygeoapi_processes.utils")
+
 
 '''
 
@@ -236,7 +241,7 @@ class MaltaGroundwaterProcessor(BaseProcessor):
             LOGGER.debug('Finished running docker container (image: %s, name: %s)' % (image_name, container_name))
 
             # Print docker output:
-            log_docker_output(stdout, stderr)
+            utils.log_docker_output(stdout, stderr)
 
             return result.returncode, stdout, stderr, "no error"
 
@@ -245,8 +250,8 @@ class MaltaGroundwaterProcessor(BaseProcessor):
             stdout = e.stdout.decode()
             stderr = e.stderr.decode()
             LOGGER.debug('Failed running docker container (exit code %s)(image: %s, name: %s)' % (returncode, image_name, container_name))
-            log_docker_output(stdout, stderr)
-            user_err_msg = get_error_message_from_docker_stderr(stderr)
+            utils.log_docker_output(stdout, stderr)
+            user_err_msg = utils.get_error_message_from_docker_stderr(stderr)
             return returncode, stdout, stderr, user_err_msg
 
 
