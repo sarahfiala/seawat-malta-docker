@@ -27,7 +27,7 @@
     "inputs": {
         "user_sealevels": {
             "title": "Sea Level Projections (m)",
-            "description": "A list of sea level values (m), formatted as a single text string with brackets and commas. This allows testing different scenarios. Higher values (simulating sea-level rise) will increase pressure on the aquifer, pushing saltwater further inland (saltwater intrusion).",
+            "description": "A list of sea level values (m), formatted as a single text string with brackets and commas (e.g., [-3.0, -2.0, -1.0]). This allows testing different scenarios. Higher values (simulating sea-level rise) will increase pressure on the aquifer, pushing saltwater further inland (saltwater intrusion).",
             "schema": {
                 "type": "string"
             },
@@ -49,7 +49,7 @@
         },
         "user_recharge": {
             "title": "Groundwater Recharge Rate (m/day)",
-            "description": "The average rainfall recharge rate, applied uniformly across the model. Units must be in meters per day (m/day). Higher values (e.g., more rainfall) will help push freshwater toward the sea, counteracting saltwater intrusion.",
+            "description": "The average rainfall recharge rate, applied uniformly across the model (e.g. 0.002). Units must be in meters per day (m/day). Higher values (e.g., more rainfall) will help push freshwater toward the sea, counteracting saltwater intrusion.",
             "schema": {
                 "type": "number"
             },
